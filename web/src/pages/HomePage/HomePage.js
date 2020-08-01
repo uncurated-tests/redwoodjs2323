@@ -16,9 +16,10 @@ export default () => (
                 text-align: center;
                 background-color: #E2E8F0;
                 height: 100vh;
+                background-color: red;
               }
               section {
-                background-color: white;
+                background-color: red;
                 border-radius: 0.25rem;
                 width: 32rem;
                 padding: 1rem;
